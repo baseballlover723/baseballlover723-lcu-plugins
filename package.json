@@ -1,0 +1,31 @@
+{
+  "name": "baseballlover723-lcu-plugins",
+  "version": "1.0.0",
+  "description": "My collection of League Client plugins that I run.",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baseballlover723/lcu-tahm-kench-plugin.git"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js",
+    "lint": "eslint \"**/*.js\""
+  },
+  "dependencies": {
+    "lcu-plugin-manager": "baseballlover723/lcu-plugin-manager",
+    "lcu-tahm-kench-plugin": "baseballlover723/lcu-tahm-kench-plugin"
+  },
+  "devDependencies": {
+    "eslint": "^8.54.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.0"
+  },
+  "keywords": [],
+  "author": "baseballlover723",
+  "license": "MIT"
+}
