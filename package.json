@@ -17,7 +17,7 @@
     "lint": "eslint \"**/*.js\""
   },
   "dependencies": {
-    "lcu-plugin-manager": "^2.0.0",
+    "lcu-plugin-manager": "^2.0.1",
     "lcu-tahm-kench-plugin": "^2.1.0",
     "lcu-start-queue-plugin": "^2.0.0",
     "lcu-request-party-owner-plugin": "^2.0.0",
