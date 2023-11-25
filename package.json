@@ -17,11 +17,11 @@
     "lint": "eslint \"**/*.js\""
   },
   "dependencies": {
-    "lcu-plugin-manager": "^2.0.1",
-    "lcu-tahm-kench-plugin": "^2.1.0",
-    "lcu-start-queue-plugin": "^2.1.0",
-    "lcu-request-party-owner-plugin": "^2.0.0",
-    "lcu-reject-party-owner-plugin": "^2.0.0"
+    "lcu-plugin-manager": "^2.1.0",
+    "lcu-tahm-kench-plugin": "^2.1.1",
+    "lcu-start-queue-plugin": "^2.1.1",
+    "lcu-request-party-owner-plugin": "^2.0.1",
+    "lcu-reject-party-owner-plugin": "^2.0.1"
   },
   "devDependencies": {
     "eslint": "^8.54.0",
