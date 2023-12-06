@@ -8,7 +8,7 @@ const plugins = [
   new TahmKenchLcuPlugin(),
   new StartQueueLcuPlugin(),
   new RequestPartyOwnerLcuPlugin(),
-  new RejectPartyOwnerLcuPlugin(),
+  new RejectPartyOwnerLcuPlugin(false),
 ];
 const pluginManager = new LcuPluginManager(plugins);
 
