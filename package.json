@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "lcu-plugin-manager": "^3.0.0",
-    "lcu-arena-random-plugin": "3.0.1",
+    "lcu-arena-random-plugin": "3.0.2",
     "lcu-ready-up-plugin": "3.0.0",
     "lcu-reject-party-owner-plugin": "^2.2.0",
     "lcu-request-party-owner-plugin": "^2.0.1",
